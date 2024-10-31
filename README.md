@@ -22,3 +22,7 @@
 
 <p>⚡ With real-time data syncing through <strong>Firebase</strong>, both web and mobile users experience up-to-date information instantly!</p>
 
+<h2>🔗 Project Repository</h2>
+<p>🌟 Check out our program walk-through and demonstration <a href="https://github.com/GroupJ-CologneStore/GroupJ-CologneStore" target="_blank"><strong>Cologne Store</strong> 🚀</a></p>
+
+
