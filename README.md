@@ -15,7 +15,7 @@
 
 <h2>💻 Tech Stack</h2>
 <ul>
-  <li>Backend: <code>ASP.NET Core</code> for API & inventory management</li>
+  <li>Backend: <code>ASP.NET Core</code> for inventory and customer management</li>
   <li>Mobile: <code>Flutter</code> for cross-platform customer interaction</li>
   <li>Database: <code>Firebase</code> for real-time updates</li>
 </ul>
