@@ -23,6 +23,6 @@
 <p>⚡ With real-time data syncing through <strong>Firebase</strong>, both web and mobile users experience up-to-date information instantly!</p>
 
 <h2>🔗 Project Demonstration</h2>
-<p>🌟 Check out our program demonstration on YouTube <a href="https://youtu.be/VUBxBRRGvag?si=B3uDJ3QWsJrPwnPc" target="_blank"><strong>Cologne Store</strong></a> 🚀</p>
+<p>🌟 Check out our program demonstration on YouTube <a href="https://youtu.be/-t3p86pm1ZA" target="_blank"><strong>Cologne Store</strong></a> 🚀</p>
 
 
