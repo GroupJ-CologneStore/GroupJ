@@ -11,7 +11,9 @@
   <li><strong>🛒 Product Browsing:</strong> Explore and add colognes to your cart.</li>
   <li><strong>💳 Cart & Checkout:</strong> Easy cart and secure checkout process.</li>
   <li><strong>📦 Real-Time Order Tracking:</strong> Track your order status live.</li>
+  <li><strong>⭐ Product Reviews:</strong> Leave and read reviews on products to help make informed decisions.</li>
 </ul>
+
 
 <h2>💻 Tech Stack</h2>
 <ul>
