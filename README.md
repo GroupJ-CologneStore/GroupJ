@@ -25,7 +25,7 @@
 <h2>🔗 Project Repositories</h2>
 <p> <a href="https://github.com/GroupJ-CologneStore/CologneStore-Web"><strong>Web application</strong></a> </p>
 </br>
-<p> <a href="https://github.com/GroupJ-CologneStore/CologneStore-Web"><strong>Mobile application</strong></a> </p>
+<p> <a href="https://github.com/GroupJ-CologneStore/CologneStore-Mobile"><strong>Mobile application</strong></a> </p>
 
 <h2>🔗 Project Demonstration</h2>
 <p>🌟 Check out our program demonstration on YouTube <a href="https://youtu.be/-t3p86pm1ZA" target="_blank"><strong>Cologne Store</strong></a> 🚀</p>
